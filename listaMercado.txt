@@ -1,3 +1,5 @@
 arroz
 pollo
 carne
+pescado
+pasta
