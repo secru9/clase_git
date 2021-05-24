@@ -3,3 +3,5 @@ pollo
 carne
 pescado
 pasta
+atun
+salchichas
